@@ -1,0 +1,39 @@
+/* div.ui.cards {
+    background: #7EA85E;
+    margin-bottom: 2em;
+    width: fit-content;
+    height: 115px;
+    font-size: 0.76rem;
+
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+} */
+
+/* div.ui.cards>.card {
+    background: #7EA85E;
+    border: none;
+    display: flex;
+    font-size: 1.1em;
+    margin-left: 15px;
+}
+
+*/
+
+div.ui.cards {
+    margin-bottom: 20px;
+}
+
+img.ui.avatar.image {
+    width: 7em;
+    height: 7em;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: -15px;
+}
+
+p {
+    padding-bottom: 8px;
+    width: 353px;
+} 
+

@@ -1,0 +1,31 @@
+.cardContainer {
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-content: center;
+}
+
+div.ui.bulleted.list.ingredients {
+    margin: 0 auto;
+    background: #DDC2C5;
+    padding: 35px;
+    font-size: 18px;
+    width: 344px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.ui.cards {
+    background: #D7E4CD;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    align-items: center;
+    padding: 30px;
+    width: 344px;
+}
+
+.ui.card:last-child {
+    width: 344px;
+    margin: 0 auto;
+}

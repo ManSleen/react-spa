@@ -1,0 +1,61 @@
+#signUpButton {
+  width: 349px;
+  background-color: #018786;
+}
+
+#CreatorButton,
+#GenralButton {
+  width: 350px;
+  height: 250px;
+}
+
+#FirstContent,
+#secondContent {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 15px;
+  line-height: 2rem;
+}
+
+#heading {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#GeneralAcc,
+#CreatorAcc {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.link {
+  color: white;
+}
+   
+
+
+#Cantainer{
+
+    margin-bottom: 3%;
+    margin-top:3%;
+}
+#topcontainer {
+   width:290px;
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content:space-between;
+   
+} 
+#populercardOne , #populercardTwo {
+    width:130px;
+    height:120px;
+}
+.guide-list-container {
+  width: 30vw;
+
+}
+
+.guide-card {
+  margin: 100px 0;
+}
